@@ -1,0 +1,11 @@
+open cmd
+enter to this directory
+npm install production
+npm start
+http://localhost:8888
+
+Tableau Web Data Connector URL
+http://localhost:8888/earthquakeWDC.html/
+
+Simulator
+http://localhost:8888/Simulator/index.html

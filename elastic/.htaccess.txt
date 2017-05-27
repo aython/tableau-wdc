@@ -1,0 +1,4 @@
+AuthUserFile D:/Google/www/.htpasswds
+AuthName "Please Enter Password"
+AuthType Basic
+Require valid-user
